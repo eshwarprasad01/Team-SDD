@@ -1,0 +1,11 @@
+Welcome to PS-2
+CyberSecurity Session
+Server:		192.168.183.2
+Address:	192.168.183.2#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 142.250.196.46
+Name:	google.com
+Address: 2404:6800:4007:82a::200e
+
