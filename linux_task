@@ -1,1 +1,1 @@
-echo 'CyberSecurity Session' >> file1.txt
+nslookup google.com >> file1.txt
